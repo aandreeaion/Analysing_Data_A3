@@ -7,7 +7,7 @@ This repository concearns Part 2 of Assignment 3. The task was to use Python's O
 
 The model was evaluated using precision, recall, and F1-score.
 
-## Task overview
+## Overview
 
 The goal of the assignment was to classify song lyrics into one of the following genres:
 
