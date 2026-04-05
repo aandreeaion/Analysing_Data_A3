@@ -40,9 +40,13 @@ The assignment required:
 ## Files in this repository
 
 - `Analysing_Data_Assignment3_Part2.ipynb`: main notebook with the full workflow
-- `zero_shot_full_results.csv`: full zero-shot predictions on the test set
-- `few_shot_full_results.csv`: full few-shot predictions on the test set
-- `genre_comparison_results.csv`: per-genre comparison of zero-shot and few-shot performance
+- `results` folder containing:
+     - `zero_shot_full_results.csv`: full zero-shot predictions on the test set
+     - `few_shot_full_results.csv`: full few-shot predictions on the test set
+     - `genre_comparison_results.csv`: per-genre comparison of zero-shot and few-shot performance
+- `data` folder containing:
+     - `genreLyrics_train.csv`
+     - `genreLyrics_test.csv`
 - `README.md`: repository overview
 
 ## Method
